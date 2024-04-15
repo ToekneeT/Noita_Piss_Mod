@@ -1,7 +1,6 @@
 # Noita Piss Mod
 Just a small mod for the game Noita. Changes it so that when the player gets damaged, they leak urine instead of blood.
 Getting a perk that changes the blood of the character should overwrite it with the new blood stain.
-Can be used for a small "challenge" since the urine stain effect makes it so the player is more likely to take a critical hit.
 
 ## Why?
 **Why not?**
